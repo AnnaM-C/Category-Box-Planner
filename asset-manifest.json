@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/category-box-planner/static/css/main.5aa8e3ad.css",
+    "main.js": "/category-box-planner/static/js/main.fefce199.js",
+    "static/js/787.28cb0dcd.chunk.js": "/category-box-planner/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/category-box-planner/index.html",
+    "main.5aa8e3ad.css.map": "/category-box-planner/static/css/main.5aa8e3ad.css.map",
+    "main.fefce199.js.map": "/category-box-planner/static/js/main.fefce199.js.map",
+    "787.28cb0dcd.chunk.js.map": "/category-box-planner/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa8e3ad.css",
+    "static/js/main.fefce199.js"
+  ]
+}

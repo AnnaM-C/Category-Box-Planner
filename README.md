@@ -1,7 +1,7 @@
 category-box-planner
 Industry Deployed E-commerce Website Planning Application.
 
-Application currently internally by teams at leading activewear company.
+Application currently internally used by teams at leading activewear company.
 
 Functionality:
 - Application allows the digital content team to visually plan the website homepage in a dynamic way.

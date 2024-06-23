@@ -1,5 +1,4 @@
-category-box-planner
-Industry Deployed E-commerce Website Planning Application.
+# Industry Deployed E-commerce Website Planning Application.
 
 Application currently internally used by teams at leading activewear company.
 
